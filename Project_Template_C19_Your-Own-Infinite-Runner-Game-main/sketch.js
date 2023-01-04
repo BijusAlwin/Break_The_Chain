@@ -10,7 +10,7 @@ var sky,skyIMG
 var player,playerIMG
 
 function preload(){
-playerIMG = loadImage("player.png")
+playerIMG = loadImage("Player.png")
 skyIMG = loadImage("Background.png")
 obstacleIMG = loadImage("Obstacle.png")
 vacIMG=loadImage("Mask Button.png")
